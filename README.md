@@ -1,5 +1,8 @@
 # ML Assignment 2 - Breast Cancer Classification
 
+## Live Demo
+Check out the live application here: [Breast Cancer Classifier](https://breast-cancer-classifier-hnxzqbpdg9eg896xgmsczf.streamlit.app/)
+
 ## Problem Statement
 The goal of this assignment is to implement multiple machine learning classification models to predict whether a breast mass is benign or malignant. The project involves analyzing the Breast Cancer Wisconsin (Diagnostic) dataset, training 6 different models, evaluating their performance, and deploying a Streamlit web application for interactive predictions.
 
